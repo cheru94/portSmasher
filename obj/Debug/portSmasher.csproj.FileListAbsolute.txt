@@ -1,0 +1,10 @@
+C:\Users\Franco\source\repos\portSmasher\portSmasher\bin\Debug\portSmasher.exe.config
+C:\Users\Franco\source\repos\portSmasher\portSmasher\bin\Debug\portSmasher.exe
+C:\Users\Franco\source\repos\portSmasher\portSmasher\bin\Debug\portSmasher.pdb
+C:\Users\Franco\source\repos\portSmasher\portSmasher\obj\Debug\portSmasher.csprojAssemblyReference.cache
+C:\Users\Franco\source\repos\portSmasher\portSmasher\obj\Debug\portSmasher.Form1.resources
+C:\Users\Franco\source\repos\portSmasher\portSmasher\obj\Debug\portSmasher.Properties.Resources.resources
+C:\Users\Franco\source\repos\portSmasher\portSmasher\obj\Debug\portSmasher.csproj.GenerateResource.cache
+C:\Users\Franco\source\repos\portSmasher\portSmasher\obj\Debug\portSmasher.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\portSmasher\portSmasher\obj\Debug\portSmasher.exe
+C:\Users\Franco\source\repos\portSmasher\portSmasher\obj\Debug\portSmasher.pdb
